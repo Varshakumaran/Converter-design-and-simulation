@@ -101,7 +101,11 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 
 # Output
 
+![image](https://github.com/user-attachments/assets/a68e4273-0f1b-438d-99be-0866ef5030e1)
 
+![image](https://github.com/user-attachments/assets/a8c18243-30e1-47d3-91ac-dd2eff2686d8)
+
+![image](https://github.com/user-attachments/assets/d5d5a333-c1bb-453c-9f47-8e19bac2a302)
 
 
 
